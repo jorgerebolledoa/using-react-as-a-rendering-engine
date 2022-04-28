@@ -7,11 +7,7 @@ const customer = {
 };
 
 //              your code inside these <div> tags
-const output = <div>
-	<h1>
-		
-	</h1>
-</div>;
+const output = <div></div>;
 
 //              what     where
 ReactDOM.render(output, document.querySelector("#myDiv"));
